@@ -9,7 +9,7 @@ OrderPulse is a portfolio-grade B2B cloud project designed to demonstrate how pr
 The project is intentionally scoped to remain focused, explainable, while still demonstrating strong engineering judgment, serverless architecture thinking, event-driven design, and operational maturity.
 
 ## Project Goal
-The goal of this project is to build a serious cloud solution that demonstrates the ability to:
+The goal of this project is to build a real cloud solution that demonstrates the ability to:
 
 - design clear APIs
 - implement structured business logic
