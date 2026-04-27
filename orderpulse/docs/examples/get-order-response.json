@@ -1,0 +1,13 @@
+{
+  "orderId": "ord_001",
+  "customerId": "cust_100",
+  "orderStatus": "CREATED",
+  "delivery": {
+    "deliveryId": "del_001",
+    "status": "OUT_FOR_DELIVERY",
+    "updatedAt": "2026-04-10T09:30:00Z"
+  },
+  "feedback": {
+    "submitted": false
+  }
+}

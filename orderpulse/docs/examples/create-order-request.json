@@ -1,0 +1,12 @@
+{
+  "orderId": "ord_001",
+  "customerId": "cust_100",
+  "items": [
+    {
+      "sku": "SKU-1",
+      "qty": 2
+    }
+  ],
+  "email": "buyer@example.com",
+  "phone": "+46700000000"
+}
